@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background:url(http://www.sclance.com/backgrounds/good-background-colors-for-websites/good-background-colors-for-websites_1092292.jpg);>
+    color: black;
+}
+canvas {
+    display: block;
+}
+h1 {
+    color: black;
+}
+h3 {
+    color: black;
+}
+mark {
+    background-color: silver;
+    color: black;
+}
