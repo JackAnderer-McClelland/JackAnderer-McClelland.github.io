@@ -21,7 +21,7 @@ function createColors() {
     colors.push(color(135, 206, 250))
     colors.push(color(147, 112, 219))
     for (let i = 0; i < 10; i++) {
-        colors.push(color(random(0), random(0), random(0)))
+        colors.push(color(random(0, 255), random(0, 255), random(0, 255)))
     }
     return colors
 }
